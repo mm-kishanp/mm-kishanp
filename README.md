@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="business-team-succes-celebration.webp" width="500" alt="MagnusMinds Logo"/>
+</p>
 
 <!--
 **mm-kishanp/mm-kishanp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -81,3 +83,6 @@ Welcome to my GitHub! I'm a passionate technologist with a strong foundation in 
 
 ---
 Thanks for stopping by! Let's build the future with code, cloud, and creativity. 🚀
+<p align="center">
+  <img src="christmas-celebration-at-office.webp" width="500" alt="MagnusMinds Logo"/>
+</p>
